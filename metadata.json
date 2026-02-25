@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Digital - Creative Agency",
+  "description": "A high-end, modern portfolio for a creative digital agency specializing in luxury brands and tech startups.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
